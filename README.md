@@ -11,11 +11,11 @@
 
 - 💼 I am very good at pair programming (Driver / navigation method).
 
-- 📈 currently learning Full stack web development in a remote multicultural environment, 
+- 📈 Currently learning full stack software development in a remote multicultural environment, 
 
-- ❤️ I love writing JavaScript, and building fun experiments.
+- ❤️ I love writing JavaScript, solving algorithms, and building fun experiments.
 
-- 💻 **I'm open to new opportunities**
+- 💻 **I'm available for hire, and also open to new opportunities**
 
 - 💬 Ask me about anything [here](https://github.com/PromzzyKoncepts/Promise-Okechukwu/issues)
 
