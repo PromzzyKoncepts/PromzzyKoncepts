@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Promise Okechukwu 👋</h1>
+<h1 align="center"> Hi, I'm Promise Okechukwu 👋</h1>
 <p align="center">A Full-Stack Software Engineer</p>
 
 <br />
