@@ -7,7 +7,7 @@
 
 **About Me**
 
-- 🤠  I'm a student and mentor at Microverse
+- 🤠  I'm a student and mentor at Microverse Inc.
 
 - 💼 I am very good at pair programming (Driver / navigation method).
 
