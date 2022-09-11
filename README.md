@@ -3,7 +3,7 @@
 
 <br />
 
-    I'm currently a software development student at Microverse, a Multicultural Full-stack development school. 
+    I'm currently enrolled in a software development student at Microverse, a Multicultural Full-stack development school. 
 
 **About Me**
 
