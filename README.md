@@ -73,7 +73,7 @@
 
 <h2>Let's connect and work together...</h2>
 <ul>
-<h3><a href="https://twitter.com/promzzy" target="_blank"><img src="https://user-images.githubusercontent.com/79658534/150798648-38f1ed89-848c-4e24-9395-c748b2adeff7.png" width="17px">pr0mzzy</a></h3> 
+<h3><a href="https://twitter.com/pr0mzzy" target="_blank"><img src="https://user-images.githubusercontent.com/79658534/150798648-38f1ed89-848c-4e24-9395-c748b2adeff7.png" width="17px">pr0mzzy</a></h3> 
 <h3><a href="mailto:okechukwupromise638@gmail.com"><img src="https://user-images.githubusercontent.com/79658534/155697385-9f83bc34-bd2a-4338-9394-c83ee8be9896.png" width="16px">okechukwupromise638@gmail.com</a></h3>
 <h3> <a href="https://www.linkedin.com/in/promiseokechukwu/"><img src="https://user-images.githubusercontent.com/79658534/155697061-56d45708-ad01-4ffc-9697-570007606fd3.png" width="18px">Promise Okechukwu</a></h3>
   
