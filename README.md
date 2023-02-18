@@ -40,7 +40,7 @@
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PromzzyKoncepts&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Promzzykoncepts&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
