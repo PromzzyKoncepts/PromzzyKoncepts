@@ -56,8 +56,8 @@
 
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> </td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"></td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </td>
+<td align="center"><img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" alt="jest" width="80" height="80"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"></td>
+<td align="center"><img src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" alt="nextjs" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </td>
 </tr>
 
 <tr>
@@ -66,6 +66,14 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/> </a> </td>
+</tr>
+
+<tr>
+<td align="center"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="react" width="80" height="80"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"></td>
+<td align="center">
+<img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png" alt="tailwind" width="80" height="80"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> </td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="webpack" width="80" height="80"/> </a> </td>
 </tr>
 </table>
 
