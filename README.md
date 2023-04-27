@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/69632681/193098629-87855274-1c34-4594-aaec-c9d6003ff0a2.gif" width="600px">
 </p>
 
-<h1 align="center"> Hello There <br/> I'm <a href="https://promiseokechukwu.netlify.app/">Promise Okechukwu</a> 👋</h1>
+<h1 align="center"> Hello There <br/> I'm <a href="https://promise-okechukwu.vercel.app/">Promise Okechukwu</a> 👋</h1>
 
 <p align="center">A Full-Stack Software Engineer</p>
 <p align="center">
