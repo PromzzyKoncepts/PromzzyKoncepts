@@ -15,7 +15,7 @@
 
 - 🤠  I'm a Hub facilitator and mentor at LMTECH Hub.
 
-- 💼 I am very good at pair programming (Driver / navigation method).
+- 💼 I am very good at pair programming and Test-driven development
 
 - ❤️ I love writing JavaScript and Ruby languages, solving algorithms, and building fun experiments.
 
