@@ -5,7 +5,11 @@
 <h1 align="center"> Hello There <br/> I'm <a href="https://promise-okechukwu.vercel.app/">Promise Okechukwu</a></h1>
 
 <p align="center">A Full-Stack Software Engineer</p>
-[![committers.top badge](https://user-badge.committers.top/nigeria/PromzzyKoncepts.svg)](https://user-badge.committers.top/nigeria/PromzzyKoncepts)
+
+<img src="https://user-badge.committers.top/nigeria/PromzzyKoncepts.svg" alt="committers top 48"></img>
+
+
+
 <p align="center">
 <a href="https://github.com/promzzykoncepts/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Determined;%20Full-stack%20Software%20developer;From%20Lagos,%20Nigeria;Always%20learning%20new%20things;Also%20available%20for%20hire&font=Fira%20Code&center=true&width=540&height=45&color=f5913e&vCenter=true&size=21&pause=500"></a>
 </p>
