@@ -6,7 +6,6 @@
 
 <p align="center">A Full-Stack Software Engineer</p>
 
-<img src="https://user-badge.committers.top/nigeria/PromzzyKoncepts.svg" alt="committers top 48"></img>
 
 
 
