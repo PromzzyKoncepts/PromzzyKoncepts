@@ -9,6 +9,8 @@
 
 
 
+
+
 <p align="center">
 <a href="https://github.com/promzzykoncepts/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Determined;%20Full-stack%20Software%20developer;From%20Lagos,%20Nigeria;Always%20learning%20new%20things;Also%20available%20for%20hire&font=Fira%20Code&center=true&width=540&height=45&color=f5913e&vCenter=true&size=21&pause=500"></a>
 </p>
