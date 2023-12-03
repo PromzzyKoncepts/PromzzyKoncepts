@@ -12,7 +12,6 @@
 </p>
 
 
-
 **About Me**
 
 - 🤠  I'm a Hub facilitator and mentor at LMTECH Hub.
