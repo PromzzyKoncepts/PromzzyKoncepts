@@ -14,15 +14,15 @@
 
 **About Me**
 
-- 🤠  I'm a Hub facilitator and mentor at LMTECH Hub.
+- 🤠  I'm a Software Engineer at TempleHS.
 
 - 💼 I am very good at pair programming and Test-driven development
 
-- ❤️ I love writing JavaScript and Ruby languages, solving algorithms, and building fun experiments.
+- ❤️ I love writing JavaScript and Typescript languages, solving algorithms, and building fun experiments.
 
 - 💻 **I'm available for hire, and also open to new opportunities**
 
-- 💬 Ask me about anything [here](https://github.com/PromzzyKoncepts/Promise-Okechukwu/issues)
+- 💬 Reach out to me for hire or short-term contracts - [WhatsApp](https://wa.me/2347012897856)
 
 
 ![Hello](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
