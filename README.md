@@ -21,7 +21,7 @@
 
 - 💻 **I'm available for hire, and also open to new opportunities**
 
-- 💬 Reach out to me for hire or short-term contracts - [WhatsApp](https://wa.me/2347012897856)
+- 💬 Reach out to me for full time hire or short-term contracts - [WhatsApp](https://wa.me/2347012897856)
 
 
 ![Hello](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
